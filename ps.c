@@ -21,7 +21,7 @@ void menu(){
     printf("Menu de opciones\n");
 }
 
-
+ 
 int main(int argc, char *argv[]) {
     char miPipe[100];
     //printf("El argc es de: %d\n",argc);
@@ -49,6 +49,6 @@ int main(int argc, char *argv[]) {
         return 0;
     }
     while(true){
-        
+
     }
 }

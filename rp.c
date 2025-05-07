@@ -10,7 +10,7 @@ typedef struct {
     char nombreLibro[100];
     long ISBN;
 } Peticion;
-
+ 
 Peticion buffer[11];
 
 void imprimirRegistro(){
